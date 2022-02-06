@@ -1,7 +1,5 @@
 ### 👾👾 Olá! Me chamo Igor Almeida 👾👾
 
-[![MasterHead](https://images2.alphacoders.com/656/65640.jpg)](https://rishavchanda.io)
-
 <div align="center">
   <a href="https://github.com/n0xxe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n0xxe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
