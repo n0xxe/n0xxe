@@ -8,4 +8,5 @@
 
   ##
 <img align="right" alt="King-Night" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/2c33f4e6e264cad6fe5b2695cb30472d/66017b3acf2b1d6f-2e/s400x600/a2eff960ffdba073a3bcd204aaae5d02746e3f9e.gifv">
+  
 ![Snake animation](https://github.com/n0xxe/n0xxe/blob/output/github-contribution-grid-snake.svg)
