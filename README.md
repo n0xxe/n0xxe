@@ -1,5 +1,8 @@
 ### 👾👾 Eaew! Me chmao Igor Almeida 👾👾
 
+[![MasterHead](https://64.media.tumblr.com/e1272c061ea22975976634baa21eb175/fecc844096ccb91d-1a/s400x600/d3f5ed938cea408c75bef03d65377076b1e45288.gifv)](https://rishavchanda.io)
+##
+
 <div align="center">
   <a href="https://github.com/n0xxe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n0xxe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
