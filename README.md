@@ -14,11 +14,13 @@
 </div><br>
 
   ##
-  <img align="right" alt="King-Night" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/2c33f4e6e264cad6fe5b2695cb30472d/66017b3acf2b1d6f-2e/s400x600/a2eff960ffdba073a3bcd204aaae5d02746e3f9e.gifv">
-  <div align="center">
-  <a href="https://www.instagram.com/bornsleepy.z/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img align="right" alt="King-Night" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/2c33f4e6e264cad6fe5b2695cb30472d/66017b3acf2b1d6f-2e/s400x600/a2eff960ffdba073a3bcd204aaae5d02746e3f9e.gifv"><div align="center">
+  
+  <!-- <a href="https://www.instagram.com/bornsleepy.z/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href="mailto:igor77alme@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-</div>
-<div align="center">
+  <a href="https://steamcommunity.com/profiles/76561199053897539/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+   <!-- <a href="https://www.behance.net/igoralmeida31" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> -->
+  
+  
   
   ![Snake animation](https://github.com/n0xxe/n0xxe/blob/output/github-contribution-grid-snake.svg)
