@@ -1,6 +1,6 @@
 ## 👾👾 Bem Vindo! 👾👾
 
-Meu nome é Igor Almeida, e desde pequeno sou fascinado por tecnologia hoje estudo Desenvolvimento de Sistemas no Senac. Tenho o grande objetivo de me tornar um Desenvolvedor Fullstack.
+Meu nome é Igor Almeida, e desde pequeno sou fascinado por tecnologia, hoje estudo Desenvolvimento Web. Meu maior objetivo é me tornar um Desenvolvedor Fullstack.
 
 Busco participar de eventos dentro da área, para sempre estar atualizado sobre as novas ferramentas, e a cada dia que passa me apaixono ainda mais por programação e a capacidade de transformar vidas moldando a forma com que a sociedade interage e se movimenta.
 
