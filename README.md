@@ -20,4 +20,4 @@ Busco participar de eventos dentro da área, para sempre estar atualizado sobre 
   <a href="https://developer.mozilla.org/docs/Web/HTML"><img height="35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS"><img height="35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   
-  ![Snake animation](https://github.com/igorAlmeida00/igorAlmeida00/blob/output/github-contribution-grid-snake.svg)
+  
