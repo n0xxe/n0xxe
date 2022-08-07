@@ -4,12 +4,6 @@ Meu nome é Igor Almeida, e desde pequeno sou fascinado por tecnologia, hoje est
 
 Busco participar de eventos dentro da área, para sempre estar atualizado sobre as novas ferramentas, e a cada dia que passa me apaixono ainda mais por programação e a capacidade de transformar vidas moldando a forma com que a sociedade interage e se movimenta.
 
-
- <a href="mailto:igor77alme@outlook.com"><img height= "35" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/igor-almeida-980363236/"><img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-
-
 <div align="center">
   <a href="https://github.com/igorAlmeida00">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorAlmeida00&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
@@ -32,7 +26,8 @@ Busco participar de eventos dentro da área, para sempre estar atualizado sobre 
 <!--<a href="https://tailwindcss.com/docs/installation"><img height="35" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>-->
  <!--<a href="https://dev.mysql.com/doc/"><img height="35" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> -->
  <!--<a href="https://www.mongodb.com/docs/"><img height="35" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>-->
-#
+<br>
+<a href="mailto:igor77alme@outlook.com"><img height= "35" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/igor-almeida-980363236/"><img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
-
 ![Snake animation](https://github.com/igorAlmeida00/igorAlmeida00/blob/output/github-contribution-grid-snake.svg)
