@@ -32,4 +32,4 @@ Busco participar de eventos dentro da área, para sempre estar atualizado sobre 
  
 ![Snake animation](https://github.com/igorAlmeida00/igorAlmeida00/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=igorAlmeida00&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=igorAlmeida00&bg_color=0D1117&color=1DBBF0&line=90e0ef&point=1DBBF0&hide_border=true"/>
