@@ -31,3 +31,5 @@ Busco participar de eventos dentro da área, para sempre estar atualizado sobre 
   <a href="https://www.linkedin.com/in/igor-almeida-980363236/"><img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
 ![Snake animation](https://github.com/igorAlmeida00/igorAlmeida00/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=igorAlmeida00&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true"/>
