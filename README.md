@@ -1,4 +1,4 @@
-## Hey 👋🏻 i'm Igor.  
+## Hey, i'm Igor 👋🏻  
 
 Meu nome é Igor Almeida, e desde pequeno sou fascinado por tecnologia, hoje estudo Desenvolvimento Web. Meu maior objetivo é me tornar um Desenvolvedor Fullstack.
 
