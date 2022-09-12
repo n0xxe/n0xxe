@@ -4,14 +4,15 @@
 
 <div align="center">
 This is where I post some of the stuff I've been working on.
-
+<br><br>
 -I'm currently studying web development at Rocketseat.<br>
 -I love writing code and learning anything about it.<br>
 -I’m currently learning Java, JavaScript, NodeJS, and ReactJS.<br>
 -In my Portfolio, you can find some of my projects.<br>
 -Want to know more about me, this is my <a href="www.linkedin.com/in/igoralmeida00">LinkedIn</a>.<br>
 -How to reach me: <a href="mailto: igor77alme@outlook.com">E-Mail</a>.<br>
--Fun fact: I ❤️ playing games (Steam: <a href="https://steamcommunity.com/profiles/76561199053897539/">n0xxe</a>).<br>
+-Fun fact: I ❤️ playing games (Steam: <a href="https://steamcommunity.com/profiles/76561199053897539/">n0xxe</a>).
+<br><br>
 
 
 
