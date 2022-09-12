@@ -1,5 +1,8 @@
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DBBF0&width=435&lines=Hey%2C+i'm+Igor+Almeida!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
+<h1 align="center" style="font-size:35px;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1DBBF0&width=435&lines=Hey+I'm+Igor+Almeida!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
+</h1>
 
+<div align="center">
 This is where I post some of the stuff I've been working on.
 
 -I'm currently studying web development at Rocketseat.<br>
@@ -11,7 +14,7 @@ This is where I post some of the stuff I've been working on.
 -Fun fact: I ❤️ playing games (Steam: <a href="https://steamcommunity.com/profiles/76561199053897539/">n0xxe</a>).<br>
 
 
-<div align="center">
+
   <a href="https://github.com/igorAlmeida00">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorAlmeida00&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorAlmeida00&theme=tokyonight&hide_border=false&&layout=compact"/>
