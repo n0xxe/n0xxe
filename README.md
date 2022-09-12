@@ -1,4 +1,4 @@
-## Hey, i'm Igor Almeida! 👋🏻  
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DBBF0&width=435&lines=Hey%2C+i'm+Igor+Almeida!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
 
 Meu nome é Igor Almeida, e desde pequeno sou fascinado por tecnologia, hoje estudo Desenvolvimento Web. Meu maior objetivo é me tornar um Desenvolvedor Fullstack.
 
