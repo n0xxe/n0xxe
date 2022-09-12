@@ -1,8 +1,15 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DBBF0&width=435&lines=Hey%2C+i'm+Igor+Almeida!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
 
-Meu nome é Igor Almeida, e desde pequeno sou fascinado por tecnologia, hoje estudo Desenvolvimento Web. Meu maior objetivo é me tornar um Desenvolvedor Fullstack.
+This is where I post some of the stuff I've been working on.
 
-Busco participar de eventos dentro da área, para sempre estar atualizado sobre as novas ferramentas, e a cada dia que passa me apaixono ainda mais por programação e a capacidade de transformar vidas moldando a forma com que a sociedade interage e se movimenta.
+-I'm currently studying web development at Rocketseat.<br>
+-I love writing code and learning anything about it.<br>
+-I’m currently learning Java, JavaScript, NodeJS, and ReactJS.<br>
+-In my Portfolio, you can find some of my projects.<br>
+-Want to know more about me, this is my <a href="www.linkedin.com/in/igoralmeida00">LinkedIn</a>.<br>
+-How to reach me: <a href="mailto: igor77alme@outlook.com">E-Mail</a>.<br>
+-Fun fact: I ❤️ playing games (Steam: <a href="https://steamcommunity.com/profiles/76561199053897539/">n0xxe</a>).<br>
+
 
 <div align="center">
   <a href="https://github.com/igorAlmeida00">
