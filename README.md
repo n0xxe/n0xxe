@@ -36,7 +36,6 @@ This is where I post some of the stuff I've been working on.
 <!--<a href="https://styled-components.com/docs"><img height="35" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>-->
 <!--<a href="https://tailwindcss.com/docs/installation"><img height="35" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>-->
  <!--<a href="https://dev.mysql.com/doc/"><img height="35" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> -->
- <!--<a href="https://www.mongodb.com/docs/"><img height="35" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>-->
 <br>
  
 ![Snake animation](https://github.com/igorAlmeida00/igorAlmeida00/blob/output/github-contribution-grid-snake.svg)
